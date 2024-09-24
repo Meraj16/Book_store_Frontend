@@ -1,2 +1,8 @@
-# book_store_Frontend
-Book Store is go-to destination for all kinds of books! Whether you're a fan of fiction, non-fiction, mystery, self-help, or educational books, we have something for everyone. Enjoy seamless browsing, personalized recommendations, and convenient delivery right to your doorstep. Dive into a world of stories with us!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
